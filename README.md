@@ -1,7 +1,7 @@
  
 
 
- [![Build Status](https://www.travis-ci.com/Mario23junior/Constelacoes-API.svg?branch=main)](https://www.travis-ci.com/Mario23junior/Constelacoes-API)
+ ![Build Status](https://app.travis-ci.com/Mario23junior/Estoque-API-Mq.svg?branch=main)
  
  
 👨‍💻
